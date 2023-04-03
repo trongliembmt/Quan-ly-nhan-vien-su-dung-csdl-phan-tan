@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\bin\Debug\CSDLPT NHANVIEN.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT NHANVIEN.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.FormMain.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.Form_CN02_Main.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.FrmDN.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.QLNHANVIEN_CN1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT NHANVIEN.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\bin\Debug\CSDLPT NHANVIEN.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\bin\Debug\CSDLPT NHANVIEN.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.QLNHANVIEN_CN2.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.TimKiemCN1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.TimKiemCN2.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT NHANVIEN.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT NHANVIEN.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.QUANLYLUONG_CN1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\CSDLPT NHANVIEN\CSDLPT NHANVIEN\obj\Debug\CSDLPT_NHANVIEN.QUANLYLUONG_CN2.resources
